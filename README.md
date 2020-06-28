@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-   For architecture, flow diagrams and more detailed explanation, please check <a href='https://github.com/LorranSutter/Perishables-supply-chain/tree/master/Project%20Documents'>Project Documents</a> folder.
+   For architecture, flow diagrams and more detailed explanation, please check <a href='https://github.com/mascarenhaswanja/Perishables-supply-chain/tree/master/Project%20Documents'>Project Documents</a> folder.
 </p>
 
 <p align="center">
